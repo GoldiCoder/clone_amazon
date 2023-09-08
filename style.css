@@ -201,12 +201,12 @@
 
 .box {
     /**height: 400px;**/
-    width: 23%;
+    width: 20%;
     justify-content: space-evenly;
     background-color: white;
     padding: 20px 0px 15px;
     color: #131616;
-    margin-top: 15px;
+    margin-top: 20px;
 }
 .boxes {
     position:relative;
@@ -216,7 +216,7 @@
     justify-content: space-evenly;
     background-color: #e2e7e6;
     width: 100%;
-    margin-bottom: 25px;
+    margin-bottom: 50px;
 }
 
 /**signinbox**/ 
